@@ -1,1 +1,1 @@
-game.Workspace.Fenriing:Destroy()
+print("😂 Test")
