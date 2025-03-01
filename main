@@ -1,1 +1,1 @@
-print("Testing")
+game.Workspace.Fenriing:Destroy()
